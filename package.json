@@ -1,0 +1,30 @@
+{
+  "name": "image-comparison",
+  "version": "1.0.0",
+  "description": "comparing 2 images",
+  "main": "index.js",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "pixelmatch": "^5.0.2",
+    "pngjs": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EdSaleh/image-comparison.git"
+  },
+  "keywords": [
+    "images",
+    "comparison"
+  ],
+  "author": "Ed Saleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdSaleh/image-comparison/issues"
+  },
+  "homepage": "https://github.com/EdSaleh/image-comparison#readme"
+}
