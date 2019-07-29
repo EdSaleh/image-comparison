@@ -1,6 +1,6 @@
 # Image Comparison
 
-Compare pair of images and get data about their similarity and processing time.
+Compare pair of images and get data about their similarity and processing time using Node.js.
 
 # Installation
 
